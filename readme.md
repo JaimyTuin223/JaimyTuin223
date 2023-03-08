@@ -6,5 +6,6 @@ A dutch developer with extra hobbies like drawing, gaming, martial arts, and mor
 - Simple discord bot example
 
 ### Socials: 
+- website: https://jaimytuin.me/
 - Discord server: https://discord.gg/8KxqWAKCPe <br>
 - Twitter: https://twitter.com/JaimyTuin223 
