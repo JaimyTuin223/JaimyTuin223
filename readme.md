@@ -12,8 +12,6 @@ Dutch IT student with multiple hobbies, like developing, drawing, gaming and mor
 
 #### More links can be found on my [Social page](https://jaimytuin.me/social)
 ## 🛠 Current projects
-Here is a list of my current projects.
-
 ### Need2Mod.
 Custom-made multipurpose discord bot with commands to make servers more fun and easier to use for members and staff.
 ###### Website: https://jaimytuin.me/need2mod
