@@ -24,8 +24,8 @@ I also offer discord bot examples, which can be found in my repository list or y
 ### UDP system.
 I'm working on a few projects related to UDP packet sending and receiving. One of them is already open-source! 
 
+##### [UDP sender](https://github.com/JaimyTuin223/UDP-sender)
+##### [UDP receiver](https://github.com/JaimyTuin223/UDP-receiver)
 ##### [UDP sender x Discord.js](https://github.com/JaimyTuin223/udp-js)
-##### UDP sender (Coming soon)
-##### UDP receiver (Coming soon)
 
 #### For examples, News, Information and Early Access to my projects, join the [Discord server](https://discord.gg/XeqteUmBen)
