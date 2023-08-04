@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-Forklift certified Dutch IT student with multiple hobbies, like developing, drawing, gaming and more.
+Forklift certified Dutch IT student with multiple hobbies, like developing, drawing, gaming,  martial arts and more.
 
 
 ## 🔗 Links
