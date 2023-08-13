@@ -13,9 +13,9 @@ Forklift certified Dutch IT student with multiple hobbies, like developing, draw
 
 #### More links can be found on my [Social page](https://jaimytuin.me/social)
 ## 🛠 Current projects
-### Need2Mod.
+### Spud. (Formerly Need2Mod)
 Custom-made multipurpose discord bot with commands to make servers more fun and easier to use for members and staff.
-###### Website: https://jaimytuin.me/need2mod
+###### Website: https://jaimytuin.me/spud
 
 ### Discord bot examples.
 I also offer discord bot examples, which can be found in my repository list or you can use the redirect links below:
