@@ -9,7 +9,7 @@ Forklift certified Dutch IT student with multiple hobbies, like developing, draw
 - Twitter: [@JaimyTuin223](https://twitter.com/jaimytuin223)
 - Youtube: [@GingerProductions](https://youtube.com/@GingerProductions)
 - Discord Development server: [Ginger Productions](https://discord.gg/XeqteUmBen)
-- Discord bot server: [Need2Mod support](https://discord.gg/D8ZcY8SJdy) 
+- Discord bot server: [Spud support](https://discord.gg/D8ZcY8SJdy) 
 
 #### More links can be found on my [Social page](https://jaimytuin.me/social)
 ## 🛠 Current projects
