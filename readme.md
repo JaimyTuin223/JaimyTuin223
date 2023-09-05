@@ -6,7 +6,7 @@ Forklift certified Dutch IT student with multiple hobbies, like developing, draw
 ## 🔗 Links
 
 
-- Twitter: [@JaimyTuin223](https://twitter.com/jaimytuin223)
+- X: [@JaimyTuin223](https://twitter.com/jaimytuin223)
 - Youtube: [@GingerProductions](https://youtube.com/@GingerProductions)
 - Discord Development server: [Ginger Productions](https://discord.gg/XeqteUmBen)
 - Discord bot server: [Spud support](https://discord.gg/D8ZcY8SJdy) 
