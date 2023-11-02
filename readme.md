@@ -18,6 +18,10 @@ Custom-made multipurpose discord bot with commands to make servers more fun and 
 ###### Website: https://jaimytuin.me/spud
 ###### top.gg: https://top.gg/bot/856570726932414484
 
+### Character.ai bot
+A bot that allows you to communicate with your character.ai bots inside a discord chat.
+###### Coming soon.
+
 ### Discord bot examples.
 I also offer discord bot examples, which can be found in my repository list or you can use the redirect links below:
 ###### [Discord.JS v13 bot example](https://github.com/JaimyTuin223/discord.js-v13-bot) (No longer updated)
