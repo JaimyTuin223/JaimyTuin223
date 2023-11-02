@@ -20,7 +20,7 @@ Custom-made multipurpose discord bot with commands to make servers more fun and 
 
 ### Character.ai bot
 A bot that allows you to communicate with your character.ai bots inside a discord chat.
-###### Coming soon.
+###### [Github repository](https://github.com/JaimyTuin223/character.ai-bot)
 
 ### Discord bot examples.
 I also offer discord bot examples, which can be found in my repository list or you can use the redirect links below:
