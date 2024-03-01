@@ -11,11 +11,11 @@ Forklift certified Dutch IT student with multiple hobbies, like developing, draw
 - Discord Development server: [Ginger Productions](https://discord.gg/XeqteUmBen)
 - Discord bot server: [Spud support](https://discord.gg/D8ZcY8SJdy) 
 
-#### More links can be found on my [Social page](https://jaimytuin.me/social)
+#### More links can be found on my [Social page](https://jaimytuin.com/social)
 ## 🛠 Current projects
 ### Spud.
 Custom-made multipurpose discord bot with commands to make servers more fun and easier to use for members and staff.
-###### Website: https://jaimytuin.me/spud
+###### Website: https://jaimytuin.com/spud
 ###### top.gg: https://top.gg/bot/856570726932414484
 
 ### Character.ai bot
