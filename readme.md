@@ -18,6 +18,10 @@ Custom-made multipurpose discord bot with commands to make servers more fun and 
 ###### Website: https://jaimytuin.com/spud
 ###### top.gg: https://top.gg/bot/856570726932414484
 
+### Perchance image generator
+Generate AI image prompts from perchance in your Node.JS code. With this npm package!
+###### [Github repository](https://github.com/JaimyTuin223/perchance-image-generator)
+
 ### Character.ai bot
 A bot that allows you to communicate with your character.ai bots inside a discord chat.
 ###### [Github repository](https://github.com/JaimyTuin223/character.ai-bot)
