@@ -27,7 +27,7 @@ A bot that allows you to communicate with your character.ai bots inside a discor
 ### Discord bot template.
 Simple to understand open-source template for building your own Discord bot using Node.js and the latest Discord.js version.
 Whether you're a beginner or not, this template offers a great starting point to create your own fully functional bot.
-###### [Discord.JS v14 bot example](https://github.com/JaimyTuin223/discord.js-bot-template)
+###### [GitHub repository](https://github.com/JaimyTuin223/discord.js-bot-template)
 
 
 #### For examples, News, Information and Early Access to my projects, join the [Discord server](https://discord.gg/XeqteUmBen)
