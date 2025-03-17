@@ -14,7 +14,7 @@ Forklift certified Dutch IT student with multiple hobbies, like developing, draw
 ### Spud.
 Multipurpose Discord bot focused on improving servers and user interaction with verification, moderation, leveling and more!
 ###### Website: https://jaimytuin.com/spud
-###### top.gg: https://top.gg/bot/856570726932414484
+###### Discord app discovery: https://discord.com/discovery/applications/856570726932414484
 
 ### Perchance image generator
 Generate AI image prompts from perchance in your Node.JS code. With this npm package!
