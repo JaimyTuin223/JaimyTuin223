@@ -13,7 +13,7 @@ Forklift certified Dutch IT student with multiple hobbies, like developing, draw
 ## 🛠 Current projects
 ### Spud
 Multipurpose Discord bot focused on improving servers and user interaction with verification, moderation, leveling and more!
-###### Website: https://jaimytuin.com/spud
+###### Website: https://spud.jaimytuin.com
 ###### Discord app discovery: https://discord.com/discovery/applications/856570726932414484
 
 ### Perchance image generator (Open source)
