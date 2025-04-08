@@ -1,6 +1,6 @@
 
 ## 🚀 About Me
-Forklift certified Dutch IT student with multiple hobbies, like developing, drawing, gaming,  martial arts and more.
+Hi I'm Jaimy, a Dutch IT student with a diverse range of hobbies and skills. In addition to my passion for developing and drawing, I enjoy gaming, spending time in nature and practicing martial arts. Oh and I'm also forklift certified lol
 
 
 ## 🔗 Links
