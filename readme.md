@@ -2,8 +2,8 @@
 ## 🚀 About Me
 Hi I'm Jaimy, a Dutch IT enthusiast with a diverse range of hobbies and skills. In addition to my passion for developing and drawing, I enjoy gaming and spending time in nature.
 
-* 💻 **Focus Areas:** Cloud Infrastructure (Azure/Entra ID), Automation, and Discord Bot Development
-* 🛠️ **Tools & Tech:** PowerShell, Microsoft Graph, NodeJS, Web Development
+* **Focus Areas:** Cloud Infrastructure (Azure/Entra ID), Automation, and Discord Bot Development
+* **Tools & Languages:** PowerShell, NodeJS, SvelteKit
 
 ## 🔗 Links
 - Youtube: [@GingerProductions](https://youtube.com/@GingerProductions)
